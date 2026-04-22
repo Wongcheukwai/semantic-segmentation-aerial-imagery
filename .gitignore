@@ -47,6 +47,10 @@ env/
 MLtestdata/*
 !MLtestdata/.gitkeep
 
+# Model outputs (keep code, not results)
+outputs_*/
+outputs/
+
 # Project-specific
 .claude/
 *.pdf
